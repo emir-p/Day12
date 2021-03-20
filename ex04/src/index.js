@@ -26,8 +26,3 @@ console.log(sumFibonacci(20));
 console.log(sumFibonacci(4));
 console.log(sumFibonacci(-5));
 module.exports = sumFibonacci;
-}
-// Only change code above this line
-
-console.log(sumFibonacci(num)); // Change this line
-module.exports = sumFibonacci;
